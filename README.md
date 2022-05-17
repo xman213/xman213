@@ -1,5 +1,4 @@
 [![xman's GitHub stats](https://github-readme-stats.vercel.app/api?username=xman213&theme=dark)](https://lead-tool.win)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=python,html,cssp)](https://github.com/Jurredr/github-widgetbox)
 <a href="https://dsc.gg/lead" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/701239529029238794.png"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=xman213&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
