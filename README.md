@@ -1,3 +1,7 @@
+# wsg bro 👋 
+im xman, a retarded python dev and i know a bit of html and js. contact me on discord (xman#1111) for any ideas or projects you want me to do!
+<br>
+
 [![xman's GitHub stats](https://github-readme-stats.vercel.app/api?username=xman213&theme=dark)](https://lead-tool.win)
 <a href="https://dsc.gg/lead" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/701239529029238794.png"/></a>
 
