@@ -3,7 +3,6 @@
  
 * At the moment, I'm working on Tsar Botnet
 * Tsar botnet is a mirai varent targeting iot devices. It includes a client made in c and a cnc made in golang. 
-* I Currently know Python
 * I'm Currently learning C and Golang
 * I'm Currently Imporving at Python, html, CSS
 
